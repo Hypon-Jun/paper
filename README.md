@@ -3,4 +3,4 @@
 and
 ppp\
 ##love \
-$$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$$
+$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$
